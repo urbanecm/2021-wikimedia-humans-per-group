@@ -1,3 +1,4 @@
 /.ipynb_checkpoints
+/data.tar.gz
 /data/*
 !/data/.gitkeep
