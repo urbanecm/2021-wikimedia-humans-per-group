@@ -1,4 +1,5 @@
 /.ipynb_checkpoints
+/humans_by_group.html
 /data.tar.gz
 /data/*
 !/data/.gitkeep
